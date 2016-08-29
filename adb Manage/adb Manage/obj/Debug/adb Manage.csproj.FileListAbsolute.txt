@@ -1,0 +1,10 @@
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb Manage.csprojResolveAssemblyReference.cache
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb Manage.csproj.GenerateResource.Cache
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb_Manage.frmInstallApp.resources
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb_Manage.frmMain.resources
+D:\Programs\Programming\Projects\adb Manage\adb Manage\bin\Debug\adb ManageR.exe.config
+D:\Programs\Programming\Projects\adb Manage\adb Manage\bin\Debug\adb Manager.exe
+D:\Programs\Programming\Projects\adb Manage\adb Manage\bin\Debug\adb Manager.pdb
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb_Manager.Properties.Resources.resources
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb Manager.exe
+D:\Programs\Programming\Projects\adb Manage\adb Manage\obj\Debug\adb Manager.pdb
